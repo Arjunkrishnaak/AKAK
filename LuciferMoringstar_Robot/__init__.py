@@ -24,18 +24,18 @@ Bot Owner Only
 /total How Many Files Added In Database
 /logger  Get Logs
 /delete Delete File From Database
+THIS IS ONLY FOR @Request_flix
 
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+• Name :  REQUEST FLIX™ BOT V3
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+• Creator : [ARJUN](
+https://t.me/lvx2_edz)
 
-➥ Language : Python3
+• Language : Python3
 
-➥ Library : Pyrogram Asyncio 1.13.0
-
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+• Library : Pyrogram Asyncio 1.13.0
+• GROUP : @Request_flix
 """
